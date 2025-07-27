@@ -1,0 +1,5 @@
+*.o
+bpf_bpfel.go
+main
+probe.o
+ebpf/vmlinux.h
